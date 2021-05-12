@@ -1,0 +1,33 @@
+h1{
+	text-align: center;
+	font-family: Arial;
+	font-size: 25px;
+}
+.negro {
+	background-color: #000000;
+}
+.blanco {
+	background-color: white;
+}
+.verde {
+	background-color: lawngreen;
+}
+.activo {
+	background-color: rgb(255, 255, 0);
+	background-size: contain;
+	box-shadow: inset 0px 1px 1px #383838;
+}
+.cuadro {
+  width: 25px;
+  height: 25px;
+  float: left;
+}
+.tabla {
+  
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
+  margin: 10px auto;
+}
+
+
